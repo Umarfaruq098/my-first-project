@@ -1,0 +1,14 @@
+  .body{
+      background-color: #333;
+      color: whitesmoke;
+    }
+    
+    a{
+      color: aliceblue;
+    }
+    a:visited{
+      color:light lightgray;
+    }
+    a:active,a:hover{
+      color: #eee;
+    }
